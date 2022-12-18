@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://ghp_NLFTKJZ4zD618pzKqKIk7wbNahGQME2DaBXQ@github.com/Dawit-Bekalu/alx-pre_course.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[user]
+	name = Dawit-Bekalu21
+[branch "update_script"]
+	remote = origin
+	merge = refs/heads/update_script
