@@ -1,1 +1,1 @@
-This repository used to program C
+My first readme
